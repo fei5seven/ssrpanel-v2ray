@@ -76,7 +76,7 @@ yum install java-1.8.0-openjdk java-1.8.0-openjdk-devel
 
 ## 构建
 ```bash
-git clone https://github.com/aiyahacke/ssrpanel-v2ray.git
+git clone https://github.com/fei5seven/ssrpanel-v2ray.git
 cd ssrpanel-v2ray
 git submodule update --init --recursive
 chmod +x ./mvnw

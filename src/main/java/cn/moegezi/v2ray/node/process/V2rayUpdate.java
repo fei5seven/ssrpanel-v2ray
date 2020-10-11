@@ -11,7 +11,7 @@ import java.io.File;
 
 public class V2rayUpdate {
 
-    private static final String GITHUB_API = "https://api.github.com/repos/v2ray/v2ray-core/releases/latest";
+    private static final String GITHUB_API = "https://api.github.com/repos/v2fly/v2ray-core/releases/latest";
 
     private static V2rayUpdate instance;
 

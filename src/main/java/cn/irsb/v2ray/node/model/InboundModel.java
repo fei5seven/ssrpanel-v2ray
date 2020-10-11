@@ -1,4 +1,4 @@
-package cn.moegezi.v2ray.node.model;
+package cn.irsb.v2ray.node.model;
 
 public class InboundModel {
 

@@ -1,8 +1,8 @@
-package cn.moegezi.v2ray.node;
+package cn.irsb.v2ray.node;
 
-import cn.moegezi.v2ray.node.process.V2rayGrpc;
-import cn.moegezi.v2ray.node.process.V2rayTimingThread;
-import cn.moegezi.v2ray.node.process.V2rayUpdate;
+import cn.irsb.v2ray.node.process.V2rayGrpc;
+import cn.irsb.v2ray.node.process.V2rayTimingThread;
+import cn.irsb.v2ray.node.process.V2rayUpdate;
 
 public class V2rayNodeApp implements Runnable {
 

@@ -1,11 +1,11 @@
-package cn.moegezi.v2ray.node.process;
+package cn.irsb.v2ray.node.process;
 
-import cn.moegezi.v2ray.node.model.UserModel;
-import cn.moegezi.v2ray.node.model.UserTrafficLog;
-import cn.moegezi.v2ray.node.utils.ConfigUtil;
-import cn.moegezi.v2ray.node.utils.DbUtil;
-import cn.moegezi.v2ray.node.utils.LRUCache;
-import cn.moegezi.v2ray.node.utils.PublicUtil;
+import cn.irsb.v2ray.node.model.UserModel;
+import cn.irsb.v2ray.node.model.UserTrafficLog;
+import cn.irsb.v2ray.node.utils.ConfigUtil;
+import cn.irsb.v2ray.node.utils.DbUtil;
+import cn.irsb.v2ray.node.utils.LRUCache;
+import cn.irsb.v2ray.node.utils.PublicUtil;
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.BeanListHandler;
 import org.slf4j.Logger;

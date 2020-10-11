@@ -1,7 +1,7 @@
-package cn.moegezi.v2ray.node.utils;
+package cn.irsb.v2ray.node.utils;
 
-import cn.moegezi.v2ray.node.model.InboundModel;
-import cn.moegezi.v2ray.node.model.V2rayConfig;
+import cn.irsb.v2ray.node.model.InboundModel;
+import cn.irsb.v2ray.node.model.V2rayConfig;
 import com.alibaba.fastjson.JSON;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

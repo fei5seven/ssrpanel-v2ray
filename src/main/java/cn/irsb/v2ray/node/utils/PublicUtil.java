@@ -1,4 +1,4 @@
-package cn.moegezi.v2ray.node.utils;
+package cn.irsb.v2ray.node.utils;
 
 import org.apache.commons.exec.CommandLine;
 import org.apache.commons.exec.DefaultExecutor;

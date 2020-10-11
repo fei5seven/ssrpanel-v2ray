@@ -1,10 +1,10 @@
-package cn.moegezi.v2ray.node.process;
+package cn.irsb.v2ray.node.process;
 
-import cn.moegezi.v2ray.node.model.InboundModel;
-import cn.moegezi.v2ray.node.model.UserModel;
-import cn.moegezi.v2ray.node.model.UserTrafficLog;
-import cn.moegezi.v2ray.node.utils.ConfigUtil;
-import cn.moegezi.v2ray.node.utils.V2rayConfigUtil;
+import cn.irsb.v2ray.node.model.InboundModel;
+import cn.irsb.v2ray.node.model.UserModel;
+import cn.irsb.v2ray.node.model.UserTrafficLog;
+import cn.irsb.v2ray.node.utils.ConfigUtil;
+import cn.irsb.v2ray.node.utils.V2rayConfigUtil;
 import com.v2ray.core.app.proxyman.command.*;
 import com.v2ray.core.app.stats.command.GetStatsRequest;
 import com.v2ray.core.app.stats.command.GetStatsResponse;

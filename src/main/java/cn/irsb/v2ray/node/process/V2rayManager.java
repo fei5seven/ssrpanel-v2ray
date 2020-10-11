@@ -1,6 +1,6 @@
-package cn.moegezi.v2ray.node.process;
+package cn.irsb.v2ray.node.process;
 
-import cn.moegezi.v2ray.node.utils.PublicUtil;
+import cn.irsb.v2ray.node.utils.PublicUtil;
 import org.apache.commons.exec.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

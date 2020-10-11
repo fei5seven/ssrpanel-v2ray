@@ -1,4 +1,4 @@
-package cn.moegezi.v2ray.node.utils;
+package cn.irsb.v2ray.node.utils;
 
 import java.security.cert.X509Certificate;
 import javax.net.ssl.X509TrustManager;
